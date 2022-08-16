@@ -5,3 +5,4 @@ Aplicación para buscar gifs desde Giphy (giphy.com)
 
 Vite + React
 Jest
+React Testing Library
